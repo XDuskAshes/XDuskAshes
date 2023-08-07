@@ -1,16 +1,19 @@
-### Hi there 👋
+# XDuskAshes / Dusk / XDuskAshesReal
 
-<!--
-**XDuskAshes/XDuskAshes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to this crapshow of a place. Glad to have you.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Info
++ She/He/Ze/It
++ Online handles include: xduskashesreal
++ I use arch btw
+# Coding
++ Lua
++ Rust (Learning)
++ Java (Soon)
++ Python (Maybe)
+# Projects
++ [Dawn OS for CC:T](https://github.com/XDuskAshes/dawn/tree/idev) (ACTIVE)
+# Socials
++ [Tumblr](https://xduskashes.tumblr.com/)
++ [Wikidot Site](http://dusks-stuff.wikidot.com/)
++ [Mastodon](https://mastodon.social/@xduskashesreal)
