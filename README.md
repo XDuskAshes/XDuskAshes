@@ -8,6 +8,8 @@ Welcome to this crapshow of a place. Glad to have you.
 + I use arch btw
 # Coding
 + Lua
++ Windows Batch (very small understanding)
++ VBS (text windows)
 + Rust (Learning)
 + Java (Soon)
 + Python (Maybe)
