@@ -6,6 +6,7 @@ Welcome to this crapshow of a place. Glad to have you.
 + She/He/Ze/It
 + Online handles include: xduskashesreal
 + I use arch btw
++ [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 # Coding
 + Lua (ComputerCraft:Tweaked)
 + Windows Batch (very small understanding)
