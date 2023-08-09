@@ -7,10 +7,10 @@ Welcome to this crapshow of a place. Glad to have you.
 + Online handles include: xduskashesreal
 + I use arch btw
 # Coding
-+ Lua
++ Lua (ComputerCraft:Tweaked)
 + Windows Batch (very small understanding)
 + VBS (text windows)
-+ Rust (Learning)
++ Rust (Kinda)
 + Java (Soon)
 + Python (Maybe)
 # Projects
