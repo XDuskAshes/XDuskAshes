@@ -9,13 +9,14 @@ Welcome to this crapshow of a place. Glad to have you.
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 # Coding
 + Lua (ComputerCraft:Tweaked)
-+ Windows Batch (very small understanding)
++ Windows Batch
 + VBS (text windows)
 + Rust (Kinda)
 + Java (Soon)
 + Python (Maybe)
 # Projects
 + [Dawn OS for CC:T](https://github.com/XDuskAshes/dawn/tree/idev) (ACTIVE)
++ [DuskTool](https://github.com/XDuskAshes/DuskTool) (MAINTAINED)
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
 + [Wikidot Site](http://dusks-stuff.wikidot.com/)
