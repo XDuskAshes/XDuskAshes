@@ -10,7 +10,6 @@ Welcome to this crapshow of a place. Glad to have you.
 # Coding
 + Lua (ComputerCraft:Tweaked)
 + Windows Batch
-+ VBS (text windows)
 + Rust (Kinda)
 + Java (Soon)
 + Python (Maybe)
