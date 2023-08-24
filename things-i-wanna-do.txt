@@ -5,5 +5,5 @@
 5. Learn Java to work on my old Minecraft mod Betterite.
 6. Learn Python for fun and for money. (its like 5-6 figures like good god)
 7. Learn Rust or C.
-8. Learn BASH scripting.
+8. Learn BASH scripting. (30% there I'd say)
 9. Make my own personal website.
