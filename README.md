@@ -11,11 +11,13 @@ Welcome. Glad to have you.
   + Arch Linux
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 # Coding
+
+## Languages
 + Lua (ComputerCraft:Tweaked)
 + Windows Batch
 + BASH Scripting
 + Ti-Basic
-# Projects
+## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ACTIVE)
 + DuskTool (MAINTAINED)
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
