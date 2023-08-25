@@ -27,6 +27,7 @@ Welcome. Glad to have you.
   + BASH scripting for process automation
   + Experience with several distros (Arch, Ubuntu, Debian, Mint)
   + Decent understanding of configuration files
+  + Mediocre understanding of ``vim``
 
 + Windows
   + Usage of CMD/Powershell
@@ -52,6 +53,7 @@ Welcome. Glad to have you.
  
 + General
   + Understanding of simple and advanced troubleshooting
+  + Managing a real-life, physical server
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
 + [Wikidot Site](http://dusks-stuff.wikidot.com/)
