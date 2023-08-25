@@ -14,6 +14,7 @@ Welcome. Glad to have you.
 + Lua (ComputerCraft:Tweaked)
 + Windows Batch
 + BASH Scripting
++ Ti-Basic
 # Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ACTIVE)
 + DuskTool (MAINTAINED)
