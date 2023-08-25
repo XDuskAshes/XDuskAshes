@@ -15,7 +15,7 @@ Welcome. Glad to have you.
 + Windows Batch
 + BASH Scripting
 # Projects
-+ [Dawn OS for CC:T](https://github.com/XDuskAshes/dawn/tree/idev) (ACTIVE)
++ [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ACTIVE)
 + DuskTool (MAINTAINED)
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
