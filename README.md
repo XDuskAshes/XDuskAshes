@@ -46,6 +46,10 @@ Welcome. Glad to have you.
   + Decent understanding of basic troubleshooting steps (Turning it off and on again, reseating hardware components)
   + Understanding of how to troubleshoot physical components
 
++ Documentation/Markup Languages
+  + Markdown
+  + LaTeX
+
 ### What I want to know
 + Linux
   + Full efficiency with the command line, and BASH
