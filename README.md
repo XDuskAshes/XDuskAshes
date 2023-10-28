@@ -30,8 +30,6 @@ Welcome. Glad to have you.
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
 ## Projects that failed
 + [dLoader](https://github.com/XDuskAshes/dLoader)
-## Other repos/dump repos
-+ [Dusk's Utilities, Libraries, and Other Miscellaneous Items for CC](https://github.com/XDuskAshes/dusks-cc-utils_progs_and_misc)
 # Computer Skills
 
 ### What I know
