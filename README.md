@@ -11,13 +11,18 @@ Welcome. Glad to have you.
   + Arch Linux (Main)
   + Fedora
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
-# Coding
+# Languages
++ Programming
+  + Lua (ComputerCraft:Tweaked)
+  + Windows Batch
+  + BASH Scripting
 
-## Languages
-+ Lua (ComputerCraft:Tweaked)
-+ Windows Batch
-+ BASH Scripting
-+ Ti-Basic
++ Documentation/Markup
+  + Markdown
+  + LaTeX
+ 
++ Speech/writing
+  + English
 ## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
 + DuskTool (MAINTAINED)
@@ -30,6 +35,7 @@ Welcome. Glad to have you.
 # Computer Skills
 
 ### What I know
+
 + Linux
   + Usage of the BASH terminal, and decent command line efficiency.
   + BASH scripting for process automation
@@ -45,10 +51,6 @@ Welcome. Glad to have you.
 + General
   + Decent understanding of basic troubleshooting steps (Turning it off and on again, reseating hardware components)
   + Understanding of how to troubleshoot physical components
-
-+ Documentation/Markup Languages
-  + Markdown
-  + LaTeX
 
 ### What I want to know
 + Linux
