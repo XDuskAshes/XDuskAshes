@@ -25,7 +25,8 @@ Welcome. Glad to have you.
   + English
 ## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
-+ DuskTool (MAINTAINED)
+## Abandoned/Archived
++ DuskTool
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
 ## Projects that failed
