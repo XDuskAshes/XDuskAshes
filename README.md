@@ -31,6 +31,9 @@ Welcome. Glad to have you.
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
 ## Projects that failed
 + [dLoader](https://github.com/XDuskAshes/dLoader)
+
+# Things I am particularly proud of
++ [General Free and Open Source Software License](https://github.com/XDuskAshes/general-foss-license)
 # Computer Skills
 
 ### What I know
