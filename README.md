@@ -6,6 +6,7 @@ Welcome. Glad to have you.
 + She/He/Ze/It
 + Linux User (All distros used in order below)
   + Debian
+  + Ubuntu
   + Linux Mint
   + Pop!_OS
   + Arch Linux (Main)
