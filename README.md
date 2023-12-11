@@ -65,8 +65,8 @@ Welcome. Glad to have you.
  
 + Windows
   + Proficiency with CMD/Powershell
-  + Full understanding of Batch
-  + Knowledge of most, if not all troubleshooting steps
+  + (Almost) Full understanding of Batch
+  + Knowledge of most troubleshooting steps
  
 + General
   + Understanding of simple and advanced troubleshooting
