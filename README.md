@@ -26,6 +26,7 @@ Welcome. Glad to have you.
   + English
 ## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
++ [Stitch](https://github.com/XDuskAshes/stitch) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) - A program to stitch files together.
 ## Abandoned/Archived
 + DuskTool
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
