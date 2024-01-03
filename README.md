@@ -2,15 +2,9 @@
 
 Welcome. Glad to have you.
 
-# Info
-+ She/He/Ze/It
-+ Linux User (All distros used in order below)
-  + Debian
-  + Ubuntu
-  + Linux Mint
-  + Pop!_OS
-  + Arch Linux (Main)
-  + Fedora
+# Basic Info
++ Preferred pronouns: She/He/Ze/It
++ Linux User (Current distribution is Arch Linux)
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 # Languages
 + Programming
@@ -27,7 +21,6 @@ Welcome. Glad to have you.
 ## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
 + [Stitch](https://github.com/XDuskAshes/stitch) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) - A program to stitch files together.
-## Abandoned/Archived
 + DuskTool
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
@@ -46,16 +39,28 @@ Welcome. Glad to have you.
   + Experience with several distros (Arch, Ubuntu, Debian, Mint)
   + Decent understanding of configuration files
   + Mediocre understanding of ``vim``
+  + Knowledge of multiple distributions, including:
+    + Debian
+    + Ubuntu
+    + Linux Mint
+    + Pop!_OS
+    + Arch Linux
 
 + Windows
   + Usage of CMD/Powershell
   + Batch scripting for process automation
   + Basic troubleshooting skills
+  + Usage of multiple versions
+    + Windows 7
+    + Windows 10
+    + Windows 11
 
 + General
   + Decent understanding of basic troubleshooting steps (Turning it off and on again, reseating hardware components)
   + Understanding of how to troubleshoot physical components
-
+ 
++ Other
+  + Understanding of basics of FreeDOS and DOS's.
 ### What I want to know
 + Linux
   + Full efficiency with the command line, and BASH
@@ -76,3 +81,4 @@ Welcome. Glad to have you.
 + [Tumblr](https://xduskashes.tumblr.com/)
 + [Wikidot Site](http://dusks-stuff.wikidot.com/)
 + [Mastodon](https://mastodon.social/@xduskashesreal)
++ [YouTube](https://youtube.com/@xduskashesreal)
