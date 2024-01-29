@@ -25,6 +25,7 @@ Welcome. Glad to have you.
  
 + Speech/writing
   + English
+  + German (Learning!)
 ## Projects
 + [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
 + [Stitch](https://github.com/XDuskAshes/stitch) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) - A program to stitch files together.
