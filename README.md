@@ -6,6 +6,13 @@ Welcome. Glad to have you.
 + Preferred pronouns: She/He/Ze/It
 + Linux User (Current distribution is Arch Linux)
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
++ Working on:
+  + Fixing [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) kernel
+  + Secret second project :)
++ Learning:
+  + Godot (And by extension gdscript)
+  + Python
+  + C, if I get around to it
 # Languages
 + Programming
   + Lua (ComputerCraft:Tweaked)
