@@ -12,7 +12,7 @@ Welcome. Glad to have you.
 + Learning:
   + Godot (And by extension gdscript)
   + Python
-  + C, if I get around to it
+  + [C](https://github.com/XDuskAshes/c-practice/)
 # Languages
 + Programming
   + Lua (ComputerCraft:Tweaked)
