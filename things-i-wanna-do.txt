@@ -1,5 +1,5 @@
 1. Write something akin to BatOS.
-2. Finish Dawn OS properly.
+2. Finish Dawn OS properly. (Failed. <https://raw.githubusercontent.com/XDuskAshes/XDuskAshes/main/proj/fail/dawn.txt>)
 3. Make the Dawn OS .madefor.cc site (once I figure that crap out)
 4. Learn base Lua.
 5. Learn Java to work on my old Minecraft mod Betterite.
