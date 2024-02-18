@@ -7,8 +7,7 @@ Welcome. Glad to have you.
 + Linux User (Current distribution is Arch Linux)
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 + Working on:
-  + Fixing [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) kernel
-  + Secret second project :)
+  + Secret project :)
 + Learning:
   + Godot (And by extension gdscript)
   + Python
@@ -27,13 +26,13 @@ Welcome. Glad to have you.
   + English
   + German (Learning!)
 ## Projects
-+ [Dawn OS](https://github.com/XDuskAshes/dawn/tree/idev) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) (ON HOLD)
 + [Stitch](https://github.com/XDuskAshes/stitch) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) - A program to stitch files together.
 + DuskTool
   + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
   + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
 ## Projects that failed
 + [dLoader](https://github.com/XDuskAshes/dLoader) | [Why?](https://github.com/XDuskAshes/XDuskAshes/blob/main/proj/fail/dloader.md)
++ Dawn OS for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) | [Why?](https://raw.githubusercontent.com/XDuskAshes/XDuskAshes/main/proj/fail/dawn.txt)
 
 # Things I am particularly proud of
 + [General Free and Open Source Software License](https://github.com/XDuskAshes/general-foss-license)
