@@ -9,9 +9,9 @@ Welcome. Glad to have you.
 + Working on:
   + Secret project :)
 + Learning:
-  + Godot (And by extension gdscript)
-  + Python
-  + [C](https://github.com/XDuskAshes/c-practice/)
+  + -[ ] Godot (And by extension gdscript)
+  + -[ ] Python
+  + -[ ] [C](https://github.com/XDuskAshes/c-practice/)
 # Languages
 + Programming
   + Lua (ComputerCraft:Tweaked)
@@ -70,20 +70,20 @@ Welcome. Glad to have you.
   + Understanding of basics of FreeDOS and DOS's.
 ### What I want to know
 + Linux
-  + Full efficiency with the command line, and BASH
-  + Full knowledge of BASH scripting
-  + Experience with more distros (specifically CLI-Only or Server clients)
-  + Full understanding of configuration files
-  + sysadmin duties and understanding of them
+  + -[ ] Full efficiency with the command line, and BASH
+  + -[ ] Full knowledge of BASH scripting
+  + -[ ] Experience with more distros (specifically CLI-Only or Server clients)
+  + -[ ] Full understanding of configuration files
+  + -[ ] sysadmin duties and understanding of them
  
 + Windows
-  + Proficiency with CMD/Powershell
-  + (Almost) Full understanding of Batch
-  + Knowledge of most troubleshooting steps
+  + -[ ] Proficiency with CMD/Powershell
+  + -[ ] (Almost) Full understanding of Batch
+  + -[ ] Knowledge of most troubleshooting steps
  
 + General
-  + Understanding of simple and advanced troubleshooting
-  + Managing a real-life, physical server
+  + -[ ] Understanding of simple and advanced troubleshooting
+  + -[ ] Managing a real-life, physical server
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
 + [Wikidot Site](http://dusks-stuff.wikidot.com/)
