@@ -45,7 +45,6 @@ Welcome. Glad to have you.
 + Linux
   + Usage of the BASH terminal, and decent command line efficiency.
   + BASH scripting for process automation
-  + Experience with several distros (Arch, Ubuntu, Debian, Mint)
   + Decent understanding of configuration files
   + Mediocre understanding of ``vim``
   + Knowledge of multiple distributions, including:
