@@ -10,6 +10,7 @@ Welcome. Glad to have you.
   + Secret project :)
 + I make [gists](https://gist.github.com/XDuskAshes)
   + [Most recent](https://gist.github.com/XDuskAshes/2d808bdb347ff2f4ef1bac61221be6d2)
++ I also code on [Scratch](https://scratch.mit.edu/users/XDuskAshesReal/) occasionally.
 + Learning:
   + -[ ] Godot (And by extension gdscript)
   + -[ ] Python
