@@ -50,9 +50,9 @@ Welcome. Glad to have you.
   + Mediocre understanding of ``vim``
   + Knowledge of multiple distributions, including:
     + Debian
-    + Ubuntu
-    + Linux Mint
-    + Pop!_OS
+      + Ubuntu
+        + Linux Mint
+        + Pop!_OS
     + Arch Linux
 
 + Windows
