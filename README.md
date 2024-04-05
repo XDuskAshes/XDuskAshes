@@ -12,8 +12,9 @@ Welcome. Glad to have you.
   + [Most recent](https://gist.github.com/XDuskAshes/2d808bdb347ff2f4ef1bac61221be6d2)
 + I also code on [Scratch](https://scratch.mit.edu/users/XDuskAshesReal/) occasionally.
 + Learning:
-  + -[ ] Godot (And by extension gdscript)
   + -[ ] Python
+  + -[ ] Base Lua
+  + -[ ] Java (Backburner in the stuff I wanna learn, frankly)
   + -[ ] [C](https://github.com/XDuskAshes/c-practice/)
 # Languages
 + Programming
