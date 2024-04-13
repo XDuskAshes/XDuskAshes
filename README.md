@@ -8,8 +8,6 @@ Welcome. Glad to have you.
 + [Things I wanna do](https://github.com/XDuskAshes/XDuskAshes/blob/main/things-i-wanna-do.txt)
 + Working on:
   + Secret project :)
-+ I make [gists](https://gist.github.com/XDuskAshes)
-  + [Most recent](https://gist.github.com/XDuskAshes/2d808bdb347ff2f4ef1bac61221be6d2)
 + I also code on [Scratch](https://scratch.mit.edu/users/XDuskAshesReal/) occasionally.
 + Learning:
   + -[ ] Python
