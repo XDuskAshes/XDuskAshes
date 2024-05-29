@@ -30,11 +30,11 @@ Welcome. Glad to have you.
 ## Projects
 + [Stitch](https://github.com/XDuskAshes/stitch) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) - A program to stitch files together.
 + DuskTool
-  + [Batch](https://github.com/XDuskAshes/DuskTool/tree/batch)
-  + [Bash](https://github.com/XDuskAshes/DuskTool/tree/bash)
+  + [Batch](https://github.com/XDuskAshes/DuskTool-old/tree/batch)
+  + [Bash](https://github.com/XDuskAshes/DuskTool-old/tree/bash)
 ## Projects that failed
 + [dLoader](https://github.com/XDuskAshes/dLoader) | [Why?](https://github.com/XDuskAshes/XDuskAshes/blob/main/proj/fail/dloader.md)
-+ Dawn OS for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) | [Why?](https://raw.githubusercontent.com/XDuskAshes/XDuskAshes/main/proj/fail/dawn.txt)
++ Dawn OS (No longer publicly available) for [CC:T](https://github.com/cc-tweaked/CC-Tweaked) | [Why?](https://raw.githubusercontent.com/XDuskAshes/XDuskAshes/main/proj/fail/dawn.txt)
 
 # Things I am particularly proud of
 + [General Free and Open Source Software License](https://github.com/XDuskAshes/general-foss-license)
