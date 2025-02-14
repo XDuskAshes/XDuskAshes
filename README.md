@@ -14,5 +14,5 @@ I'm Dusk. I primarily make stuff for [ComputerCraft:Tweaked](https://github.com/
 
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
-+ [NeoCities](https://xduskashesreal.neocities.org/)
++ [Nekoweb](https://xduskashesreal.nekoweb.org/)
 + [YouTube](https://youtube.com/@xduskashesreal)
