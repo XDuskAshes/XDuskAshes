@@ -11,6 +11,8 @@ I'm Dusk. I primarily make stuff for [ComputerCraft:Tweaked](https://github.com/
 
 ![Dusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDuskAshes&show_icons=true&theme=dark&include_all_commits=true) ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=XDuskAshes&layout=compact&theme=dark)
 
+## What are you?
+Good question!
 
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
