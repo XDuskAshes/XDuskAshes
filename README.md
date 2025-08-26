@@ -6,7 +6,7 @@ I'm also primarily moving to [Codeberg](https://codeberg.org/XDuskAshes/), and t
 
 ## Stuff you might actually care about
 
-- [dotfiles](https://codeberg.com/XDuskAshes/dotfiles/) ([github](https://github.com/XDuskAshes/dotfiles/))
+- [dotfiles](https://codeberg.org/XDuskAshes/dotfiles/) ([github](https://github.com/XDuskAshes/dotfiles/))
 
 ## Stats! That's what people do nowadays right?
 
