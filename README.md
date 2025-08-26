@@ -2,10 +2,11 @@
 
 I'm Dusk (or XDuskAshes/XDuskAshesReal on various platforms, capitalization varies) and I make stuff! Most of my expertise lies in stuff for [ComputerCraft:Tweaked](https://modrinth.com/mod/cc-tweaked), a Minecraft mod that adds Lua-programmable computers. I might make [gists](https://gist.github.com/XDuskAshes) sometimes for the smaller stuff.
 
+I'm also primarily moving to [Codeberg](https://codeberg.org/XDuskAshes/), and this account will all be archived by summer 2026.
+
 ## Stuff you might actually care about
 
-- [dotfiles](https://github.com/XDuskAshes/dotfiles/)
-- [NeoVim config](https://github.com/XDuskAshes/nvim-config/)
+- [dotfiles](https://codeberg.com/XDuskAshes/dotfiles/) ([github](https://github.com/XDuskAshes/dotfiles/))
 
 ## Stats! That's what people do nowadays right?
 
