@@ -1,20 +1,18 @@
-# XDuskAshes / Dusk / XDuskAshesReal
+# Welcome!
 
-Welcome. Glad to have you.
+I'm Dusk (or XDuskAshes/XDuskAshesReal on various platforms, capitalization varies) and I make stuff! Most of my expertise lies in stuff for [ComputerCraft:Tweaked](https://modrinth.com/mod/cc-tweaked), a Minecraft mod that adds Lua-programmable computers. I might make [gists](https://gist.github.com/XDuskAshes) sometimes for the smaller stuff.
 
-Remember: Giving up in any way is admittance of defeat. Be yourself. Stay yourself.
+## Stuff you might actually care about
 
-Godspeed, fellow Americans in danger.
+- [dotfiles](https://github.com/XDuskAshes/dotfiles/)
+- [NeoVim config](https://github.com/XDuskAshes/nvim-config/)
 
-## Who are you?
-I'm Dusk. I primarily make stuff for [ComputerCraft:Tweaked](https://modrinth.com/mod/cc-tweaked). I'm working on making my code better and branching out into different languages such as C or Python, and shell scripting (primarily BASH). I'm a very bad programmer. I might make [gists](https://gist.github.com/XDuskAshes) sometimes for the smaller stuff.
+## Stats! That's what people do nowadays right?
 
 ![Dusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDuskAshes&show_icons=true&theme=dark&include_all_commits=true) ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=XDuskAshes&layout=compact&theme=dark)
-
-## What are you?
-Good question!
 
 # Socials
 + [Tumblr](https://xduskashes.tumblr.com/)
 + [Nekoweb](https://xduskashesreal.nekoweb.org/)
 + [YouTube](https://youtube.com/@xduskashesreal)
++ [Bluesky](https://bsky.app/profile/xduskashesreal.nekoweb.org)
